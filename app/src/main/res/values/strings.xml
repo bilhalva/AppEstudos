@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">AppEstudos</string>
+
+    <string-array name="Disciplinas">
+        <item>Selecione a disciplina</item>
+        <item>Comp para dispositivos móveis</item>
+        <item>Estatística</item>
+        <item>Banco de dados</item>
+        <item>Eng de Software</item>
+        <item>Certificação Técnica</item>
+        <item>Matemática</item>
+        <item>Práticas de Eng de Software</item>
+
+    </string-array>
+
 </resources>
