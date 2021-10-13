@@ -24,5 +24,6 @@
 
     <string name="txtSalvar">Salvar</string>
     <string name="txtCancelar">Cancelar</string>
+    <string name="txtAdicionar">Adicionar</string>
 
 </resources>

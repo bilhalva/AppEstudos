@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_agenda_cadastro.xml" value="0.29635416666666664" />
+        <entry key="app/src/main/res/layout/activity_agenda_lista.xml" value="0.25625" />
+        <entry key="app/src/main/res/layout/activity_lista2.xml" value="0.25625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="app/src/main/res/layout/content_lista2.xml" value="0.25625" />
       </map>
     </option>
   </component>

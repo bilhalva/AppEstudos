@@ -10,6 +10,11 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AppEstudos">
         <activity
+            android:name=".ListaActivity2"
+            android:exported="true"
+            android:label="@string/title_activity_lista2"
+            android:theme="@style/Theme.AppEstudos.NoActionBar" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
