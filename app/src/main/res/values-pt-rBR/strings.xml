@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Plano de Estudos</string>
+
+    <string-array name="Disciplinas">
+        <item>Selecione a disciplina</item>
+        <item>Comp para dispositivos móveis</item>
+        <item>Estatística</item>
+        <item>Banco de dados</item>
+        <item>Eng de Software</item>
+        <item>Certificação Técnica</item>
+        <item>Matemática</item>
+        <item>Práticas de Eng de Software</item>
+    </string-array>
+
+    <string name="txtNomeAplicativo">Plano de Estudos</string>
+    <string name="txtPaginaCadastrar">Cadastrar Atividade</string>
+    <string name="txtData">Data: </string>
+    <string name="txtDisciplina">Disciplina: </string>
+    <string name="txtConteudo">Conteúdo: </string>
+    <string name="txtTempo">Duração: </string>
+    <string name="txtHintData">Informe a data da atividade realizada</string>
+    <string name="txtHintConteudo">Informe o conteúdo</string>
+    <string name="txtHintTempo">Informe o tempo de estudo</string>
+
+    <string name="txtSalvar">Salvar</string>
+    <string name="txtCancelar">Cancelar</string>
+
+</resources>

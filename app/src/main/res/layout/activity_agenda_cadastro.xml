@@ -12,7 +12,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Plano de Estudos"
+            android:text="@string/txtNomeAplicativo"
             android:background="#686868"
             android:textColor="#fff"
             android:layout_gravity="center_horizontal"
@@ -24,7 +24,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Cadastrar atividade"
+            android:text="@string/txtPaginaCadastrar"
             android:textColor="#686868"
             android:layout_gravity="center_horizontal"
             android:textSize="20dp"
@@ -40,13 +40,13 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Data:"
+                android:text="@string/txtData"
                 android:textSize="20dp"/>
 
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Digite a data da atividade realizada"/>
+                android:hint="@string/txtHintData"/>
 
         </LinearLayout>
 
@@ -57,7 +57,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Disciplina:"
+                android:text="@string/txtDisciplina"
                 android:textSize="20dp"/>
 
             <Spinner
@@ -74,13 +74,13 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Conteúdo:"
+                android:text="@string/txtConteudo"
                 android:textSize="20dp"/>
 
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Informe o conteúdo estudado"/>
+                android:hint="@string/txtHintConteudo"/>
 
         </LinearLayout>
 
@@ -92,13 +92,13 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Tempo:"
+                android:text="@string/txtTempo"
                 android:textSize="20dp"/>
 
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Informe o tempo de estudo"/>
+                android:hint="@string/txtHintTempo"/>
 
         </LinearLayout>
 
@@ -112,20 +112,17 @@
                 android:id="@+id/confirm_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Salvar"/>
+                android:text="@string/txtSalvar"/>
 
             <Button
                 android:id="@+id/cancel_button"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Cancelar"
+                android:text="@string/txtCancelar"
                 android:layout_marginLeft="140dp"/>
 
         </LinearLayout>
 
     </LinearLayout>
-
-
-
 
 </ScrollView>

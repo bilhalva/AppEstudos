@@ -1,16 +1,30 @@
 <resources>
-    <string name="app_name">AppEstudos</string>
+    <string name="app_name">Syllabus</string>
 
     <string-array name="Disciplinas">
-        <item>Selecione a disciplina</item>
-        <item>Comp para dispositivos móveis</item>
-        <item>Estatística</item>
-        <item>Banco de dados</item>
-        <item>Eng de Software</item>
-        <item>Certificação Técnica</item>
-        <item>Matemática</item>
-        <item>Práticas de Eng de Software</item>
-
+        <item>Choose a discipline...</item>
+        <item>Comp for Mobile Devices</item>
+        <item>Estatistic</item>
+        <item>Database</item>
+        <item>Software Engineering</item>
+        <item>Technical Certification</item>
+        <item>Math</item>
+        <item>Software Engineering Practices</item>
     </string-array>
+
+    <string name="txtNomeAplicativo">Syllabus</string>
+    <string name="txtPaginaCadastrar">Register Activity</string>
+    <string name="txtData">Date: </string>
+    <string name="txtDisciplina">Discipline: </string>
+    <string name="txtConteudo">Contents: </string>
+    <string name="txtTempo">Duration: </string>
+    <string name="txtHintData">Enter the date of the activity performed</string>
+    <string name="txtHintConteudo">Inform the studied content</string>
+    <string name="txtHintTempo">Enter study time</string>
+
+    <string name="txtSalvar">Save</string>
+    <string name="txtCancelar">Cancel</string>
+
+
 
 </resources>
